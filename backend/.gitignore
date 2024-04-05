@@ -1,0 +1,7 @@
+/node_modules
+.env
+/uploads/photos/*
+/uploads/users/*
+!.gitkeep
+
+
